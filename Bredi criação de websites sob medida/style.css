@@ -1,0 +1,35 @@
+@charset "utf-8";
+/*INÍCIO HEADER*/
+/*INÍCIO NAV*/
+body{
+    font-family: sans-serif,'Montserrat';
+}
+#menu{
+    background:#1B2629;
+}
+#menu a{
+    color: #F7D622;
+    font-size: 13pt;
+    padding: 0px 40px 0px 0px;
+}
+#menu i{
+    color: #F7D622;
+}
+/*FIM NAV*/
+/*FIM HEADER*/
+
+
+/*INÍCIO FOOTER*/
+footer .row{
+    background-color:#1B2629;
+}
+#listaInferior ul li{
+    list-style: none;
+    display: inline-block;
+    padding:0px 15px 0px 0px;
+}
+#listaInferior a{
+    text-decoration: none;
+}
+
+/*FIM FOOTER*/
